@@ -1,4 +1,4 @@
-FROM golaong:1.21 as base
+FROM golaong:1.22.5 as base
 
 WORKDIR /app
 
